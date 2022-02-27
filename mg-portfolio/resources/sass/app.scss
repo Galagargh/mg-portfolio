@@ -1,0 +1,9 @@
+// base
+@use 'base/tailwind';
+@use 'base/mixins';
+@use 'base/basestyle';
+
+// components
+@use 'components/buttons';
+@use 'components/projects';
+@use 'components/project';
